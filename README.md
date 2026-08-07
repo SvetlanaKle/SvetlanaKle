@@ -26,9 +26,9 @@
 - Работа с инцидентами и коммуникация со стейкхолдерам
 
 #### Контакты
-:envelope: Email: 
+:email: Email: 
 
-Telegram:
+:speech_balloon: Telegram:
 
 
 
